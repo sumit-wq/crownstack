@@ -1,8 +1,9 @@
 .cards { 
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin: 5px 0px 5px 10px;
-    min-width: 200px;
-    width: 18rem;
+    /* margin: 15px 1px 15px 10px; */
+    /* min-width: 200px; */
+    /* width: 18rem; */
+    margin: 10px 0px
 }
 .cardButton {
     width: 100%;
@@ -10,7 +11,7 @@
     border-top-right-radius: 0px; 
 }
 .cardsContainer {
-     display: flex; 
+     /* display: flex;  */
 }
 .cardBody{
     padding: 0px;

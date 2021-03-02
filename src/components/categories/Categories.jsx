@@ -119,21 +119,6 @@ class Categories extends Component {
             {this.state.category
               ? this.renderCategories(this.state.category)
               : this.renderText()}
-
-            {/* <Col xs={12} sm={6} lg={8}>
-              asdf
-            </Col>
-            <Col xs={12} sm={6} lg={4}>
-              jqwertyui
-            </Col>
-          </Row>
-          <Row>
-            <Col xs={12} sm={6} lg={8}>
-              qwetyu
-            </Col>
-            <Col xs={12} sm={6} lg={4}>
-              dfghjk
-            </Col> */}
           </div>
         </Container>
       </div>

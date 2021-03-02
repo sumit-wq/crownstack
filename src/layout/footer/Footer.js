@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
     return (
         <footer className="App-header footer">
-        footer
+        By:- Sumit Kumar Gupta
       </footer>
     )
 }

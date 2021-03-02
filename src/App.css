@@ -26,10 +26,12 @@
 }
 
 .footer {
-  border: 2px red solid;
   position: fixed;
-  bottom: 0px;
+  left: 0;
+  bottom: 0;
   width: 100%;
+  color: white;
+  text-align: center;
 }
 
 .App-link {
