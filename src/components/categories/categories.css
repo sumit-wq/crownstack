@@ -1,0 +1,23 @@
+.cards { 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 5px 0px 5px 10px;
+    min-width: 200px;
+    width: 18rem;
+}
+.cardButton {
+    width: 100%;
+    border-top-left-radius: 0px; 
+    border-top-right-radius: 0px; 
+}
+.cardsContainer {
+     display: flex; 
+}
+.cardBody{
+    padding: 0px;
+}
+/* .wrapper { */
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    /* grid-auto-rows: 100px;
+  } */
